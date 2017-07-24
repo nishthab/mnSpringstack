@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-service-discovery-ha
+Implementation-Version: 1.0
+Built-By: nbhardwaj
+Implementation-Vendor-Id: com.nmspringcloud.ha
+Build-Jdk: 1.8.0_25
+Implementation-URL: http://projects.spring.io/spring-boot/spring-cloud
+ -service-discovery-high-availibility/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

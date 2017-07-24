@@ -1,0 +1,58 @@
+https://github.com/rollingstonetechnology/udemy-rsmortgage-microservice-spring-boot-template/blob/master/src/main/java/com/rollingstone/service/TodoService.java
+
+java -jar -Dspring.profiles.active=mysql target/jar name 
+
+http://localhost:8095/health/
+http://localhost:8095/matrics/
+http://localhost:9090/swagger-ui.html
+
+
+
+
+What is Spring Boot?
+Convention over Configuration
+
+. We are familiar with convention over configuration as our cars of th esame make and model follow   the  same convention and unless the driver physically changes athe convention, stays the same.
+. What that means is the size of the pom.xml(or bulid.xml for Gradle) is much smaller than it was without Spring boot.
+
+Spring Boot Features
+---------------------
+. Comes with the default servlet container
+
+. Apache Tomcat
+. Jetty
+. Undertow
+
+. Includes in Memory Database that can let you test your Jdbc/hibernate code while your Database Administrator is vacationing
+---------------------
+Microservices
+----------------------
+Are still services and still has many of th eAPI design principles that are applied to Macroservices a.k.a. Monolothic applications.
+
+
+12 Factor Apps in simple terms
+-------------------------------
+
+Codebase--> put all code source control . i.e github
+
+Dependencies--> Identify and declare all the dependencies of your application and prepare script to make new machines with all the dependencies. Chef, Puppet, Ansible
+
+
+
+
+Tools WE NEED
+------------
+Java Development kit 8.x
+MySQl 5.6 Community Edition - port no 3303 / root accoung password is root
+Crome Rest Client
+Spring Source Tool Suit
+Fit SCM Client
+Apache Maven 3.x
+
+
+
+
+
+ 
+
+

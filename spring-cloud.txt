@@ -1,0 +1,17 @@
+two entry in C:\Windows\System32\drivers\etc\hosts
+127.0.0.1	eureka-host1
+127.0.0.1	eureka-host2
+
+Spring Boot / Cloud Update
+
+Spring Boot and Spring Cloud are very active projects from Pivotal
+It is released quite frequently
+We would like all of us to benefit from those updates
+However, we would still like to keep the base 1.4.1 version unchanged for some time
+That is why this is the new repository we have created to use that for making updates avoiding to break the primary one
+Clone this https://github.com/rollingstonetechnology/udemy-rsmortgage-eureka-service-discovery-ha-latest
+And follow all the other instructions unchanged
+What changed
+Spring Boot version from 1.4.1 to 1.5.2
+Spring Cloud version from Camden.SR6 to Dalston.SR1
+Rest everything else we learned about service discovery remains unchanged.
